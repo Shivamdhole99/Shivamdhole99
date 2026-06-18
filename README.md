@@ -137,7 +137,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ShivamDhole99/ShivamDhole99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ShivamDhole99/ShivamDhole99/output/github-contribution-grid-snake.svg)
 
 ---
 

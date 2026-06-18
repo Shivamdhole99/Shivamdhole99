@@ -99,6 +99,7 @@
 
 🏅 Published Research Paper:
 **Pacman Top-Down Shooter Game**
+
 **AI Doctor with Medical Suggestion**
 
 ---

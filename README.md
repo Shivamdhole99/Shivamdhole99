@@ -11,7 +11,7 @@
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning (2023-2026) (SGPA = 7.54)
 
-🎓 Diploma in Computer Science Engineering (2020-2023) (Percntage = 74.34)
+🎓 Diploma in Computer Science Engineering (2020-2023) (Percentage = 74.34)
 
 💼 Software Development Intern at HFP Technology Pvt. Ltd.
 

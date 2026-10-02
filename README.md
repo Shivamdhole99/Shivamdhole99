@@ -153,13 +153,16 @@
 
 ## 🔥 Contribution Graph
 
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamDhole99&theme=tokyo-night)](https://github.com/ShivamDhole99)
+[![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamDhole99&theme=tokyo-night)](https://github.com/ShivamDhole99)
 
 ---
 
 ## 🐍 Contribution Snake
 
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamDhole99&theme=tokyo-night)](https://github.com/ShivamDhole99)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShivamDhole99/ShivamDhole99/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ---
 
 ### ⭐ Quote

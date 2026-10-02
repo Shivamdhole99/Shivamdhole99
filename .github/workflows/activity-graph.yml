@@ -1,4 +1,4 @@
-name: Generate GitHub Activity Graph
+name: Update Activity Graph
 
 on:
   schedule:
@@ -13,8 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
+      - uses: actions/checkout@v6
 
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1

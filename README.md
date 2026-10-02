@@ -13,16 +13,22 @@
 
 🎓 Diploma in Computer Science Engineering (2020-2023) (Percentage = 74.34)
 
-💼 Software Development Intern at HFP Technology Pvt. Ltd.
+💼 Software Development Intern at NOMINEELIFE PRIVATE LIMITED.
 
 🔭 Currently working on:
-- ERP HR Core APIs
-- Django REST Framework Projects
-- Employee Management Systems
+- WCC Backend Development
+- Django REST Framework APIs
+- Member & Manager Management Systems
+- Nutrition & Wellness APIs
+- BMI & Health Tracking APIs
 - AI & Machine Learning Applications
 
 🌱 Learning:
 - Advanced Django
+- PostgreSQL & Django ORM
+- REST API Architecture
+- API Optimization & Query Optimization
+- Authentication & Role-Based Access Control
 - Frappe Framework
 - ERPNext Customization
 - Cloud Computing (AWS & Azure)
@@ -35,6 +41,16 @@
 
 ✔️ Build REST APIs using Django REST Framework
 
+✔️ Develop Member, Manager & Center Management APIs
+
+✔️ Design Database Models & Business Logic
+
+✔️ Develop Nutrition, Wellness & BMI APIs
+
+✔️ Implement Authentication & Role-Based Access
+
+✔️ Debug, Optimize & Maintain Backend Applications
+
 ✔️ Develop ERP Modules using Frappe Framework
 
 ✔️ Design Database Models & Business Logic
@@ -43,12 +59,16 @@
 
 ✔️ Work on Machine Learning Projects
 
-✔️ Debug, Optimize & Maintain Applications
-
 ---
 
 ## 🎯 Current Focus
 
+- WCC Backend Development
+- Nutrition & Wellness Management APIs
+- Member & Manager APIs
+- BMI & Health Tracking
+- Search, Filtering & Pagination APIs
+- PostgreSQL & Django ORM
 - ERP HR Core Development
 - Session-Based APIs
 - Django + DRF Integration
@@ -144,3 +164,11 @@
 ### ⭐ Quote
 
 > "Code. Learn. Build. Repeat."
+
+---
+
+## 📈 Development Philosophy
+
+> **Build reliable APIs. Design clean systems. Solve real-world problems.**
+
+I enjoy building backend systems that transform real-world business requirements into scalable APIs, well-structured database models, and maintainable application logic.

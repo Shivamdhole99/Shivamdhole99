@@ -165,7 +165,10 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShivamDhole99/ShivamDhole99/output/github-contribution-grid-snake.svg" alt="Shivam's Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/ShivamDhole99/ShivamDhole99/output/github-snake.svg"
+    alt="Shivam's GitHub Contribution Snake"
+  />
 </p>
 
 ---

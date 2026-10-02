@@ -153,9 +153,7 @@
 
 ## 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDhole99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamDhole99&theme=tokyo-night)](https://github.com/ShivamDhole99)
 
 ---
 

@@ -153,7 +153,12 @@
 
 ## 🔥 Contribution Graph
 
-[![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamDhole99&theme=tokyo-night)](https://github.com/ShivamDhole99)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDhole99&theme=tokyo-night&hide_border=true&area=true"
+    alt="Shivam's GitHub Activity Graph"
+  />
+</p>
 
 ---
 

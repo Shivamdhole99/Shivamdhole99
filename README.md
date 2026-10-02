@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Student | Django Developer | Frappe Developer | Backend Enthusiast | Python Developer</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShivamDhole99&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamDhole99&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivam's GitHub Stats" />
 </p>
 
 ---
@@ -151,7 +151,9 @@
 
 ## 🔥 Contribution Graph
 
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamDhole99&theme=tokyo-night)](https://github.com/ShivamDhole99)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDhole99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 

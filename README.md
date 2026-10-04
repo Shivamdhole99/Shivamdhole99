@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Profile%20Views-1000%2B-0e75b6?style=flat-square&logo=github"
+    src="https://view-counter.tobyhagan.com/?user=ShivamDhole99"
     alt="Profile Views"
   />
 </p>

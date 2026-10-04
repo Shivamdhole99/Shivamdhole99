@@ -2,9 +2,10 @@
 <h3 align="center">AI & ML Student | Backend Developer | Django & DRF | Backend Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/ShivamDhole99">
-    <img src="https://komarev.com/ghpvc/?username=ShivamDhole99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img
+    src="https://img.shields.io/badge/Profile%20Views-1000%2B-0e75b6?style=flat-square&logo=github"
+    alt="Profile Views"
+  />
 </p>
 
 ---

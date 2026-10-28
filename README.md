@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (2023-2026) (SGPA = 7.54)
+🎓 B.Tech in Artificial Intelligence & Machine Learning (2023-2026) (CGPA = 7.15)
 
 🎓 Diploma in Computer Science Engineering (2020-2023) (Percentage = 74.34)
 
